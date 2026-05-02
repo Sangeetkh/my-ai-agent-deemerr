@@ -1,0 +1,19 @@
+{
+  "name": "My AI Agent",
+  "description": "Crypto + Airdrop Assistant",
+  "url": "https://your-app.vercel.app",
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": true
+  },
+  "skills": [
+    {
+      "id": "chat",
+      "name": "Chat Assistant"
+    },
+    {
+      "id": "airdrop_finder",
+      "name": "Find Airdrops"
+    }
+  ]
+}
