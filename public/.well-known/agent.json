@@ -1,7 +1,8 @@
 {
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
   "name": "Deemerr",
   "description": "Deemerr AI Agent is an agent built on billions Network",
-  "url": "https://your-app.vercel.app",
+  "url": "https://my-ai-agent-deemerr.vercel.app",
   "version": "1.0.0",
   "capabilities": {
     "streaming": true
