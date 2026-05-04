@@ -1,7 +1,7 @@
 {
   "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
   "name": "Deemerr",
-  "description": "Deemerr AI Agent is an agent built on billions Network",
+  "description": "Deemerr is an advanced, multi-skill AI agent native to the Billions Network. Equipped with on-chain analytics, NFT tracking, validator stats, and DEX routing to optimize your DeFi strategy.",
   "url": "https://my-ai-agent-deemerr.vercel.app",
   "version": "1.0.0",
   "capabilities": {
