@@ -13,8 +13,49 @@
       "name": "Chat Assistant"
     },
     {
-      "id": "airdrop_finder",
-      "name": "Find Airdrops"
+      "id": "billions_gas_monitor",
+      "name": "Billions Gas Tracker",
+      "description": "Provides real-time gas fees for the Billions Network Mainnet."
+    },
+    {
+      "id": "bill_price_tracker",
+      "name": "$BILL Price Tracker",
+      "description": "Fetches the real-time market price of the Billions Network native token ($BILL)."
+    },
+    {
+      "id": "wallet_balance_checker",
+      "name": "Wallet Balance Checker",
+      "description": "Checks the token balance of any wallet address on the Billions Network."
+    },
+    {
+      "id": "transaction_scanner",
+      "name": "Transaction Scanner",
+      "description": "Reads and verifies on-chain transaction statuses using the Billions block explorer."
+    },
+    {
+      "id": "yield_farming_monitor",
+      "name": "Yield & Staking Monitor",
+      "description": "Tracks the best APY rates for staking and yield farming on Billions Network DeFi protocols."
+    },
+    {
+      "id": "bridge_assistant",
+      "name": "Bridge Assistant",
+      "description": "Guides users on how to safely bridge assets over to the Billions Network."
+    },
+    {
+      "id": "billions_nft_tracker",
+      "name": "Billions NFT Tracker",
+      "description": "Monitors trending NFT collections and floor prices on the Billions Network."
+    },
+    {
+      "id": "dex_router",
+      "name": "DEX Swap Router",
+      "description": "Finds the most efficient token swap routes across Billions Network decentralized exchanges."
+    },
+    {
+      "id": "validator_stats",
+      "name": "Validator Node Stats",
+      "description": "Tracks uptime, commission rates, and total staked $BILL for active network validators."
     }
   ]
 }
